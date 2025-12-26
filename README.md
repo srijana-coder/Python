@@ -6,7 +6,7 @@
 - Python installation and setup
 - Basic arithmetic operations
 - Data types: `int`, `float`, `str`, `list`, `complex`
-- First Python script: `helloworld.py`
+- First Python script: `basics.py`
 
 ### Day 2: Variables & Built-in Functions
 - Variable declaration and naming conventions
