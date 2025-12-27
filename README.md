@@ -20,7 +20,7 @@
 - String operations and membership tests
 - Quadratic equation solver
 
-### 📅 Day 4: Strings and String Methods
+### Day 4: Strings and String Methods
 
 - String creation and concatenation  
 - String length and case conversion  
